@@ -1,2 +1,3 @@
 # design-patterns-in-rust
-About Design patterns in Rust
+
+勉強用。間違った解釈があるかもしれません。
